@@ -8,6 +8,7 @@ A very compact USB sound card with either two line inputs or two line outputs
 ## Features
 * USB-C connector (USB 1.1 standard)
 * Can be set to Line Out or Line In with solder jumpers
+* The front plate can be flipped for Input or Output labeling
 * Bus powered
 * With PCB front plates no mechanical work is neccessary (except for some countersinking)
 
@@ -32,4 +33,4 @@ https://www.hammfg.com/part/1455D601
 Although a nice anodized aluminum case is pretty nifty!
 
 # Maybe?
-It would be really nice to be able to chance the direction mid-operation, but that would require some analog switches. Maybe I'll create another version somewhere in the future
+It would be really nice to be able to change the direction mid-operation, but that would require some analog switches. Maybe I'll create another version somewhere in the future
