@@ -3,7 +3,7 @@
 <eagle version="9.6.2">
 <drawing>
 <settings>
-<setting alwaysvectorfont="yes"/>
+<setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="0.5" unitdist="mm" unit="mm" style="dots" multiple="1" display="yes" altdistance="0.05" altunitdist="mm" altunit="mm"/>
@@ -2927,7 +2927,7 @@ Copyright: Würth Elektronik</description>
 <attribute name="VALUE" x="10.5" y="25.5" size="0.8" layer="27" align="center"/>
 <attribute name="VBR" value="6V" x="17.5" y="33" size="1" layer="27" rot="R270" display="off"/>
 </element>
-<element name="L1" library="Wurth_EMC Components_WE-CBF" library_urn="urn:adsk.eagle:library:14283147" package="WE-CBF_0603_W2.6" package3d_urn="urn:adsk.eagle:package:7784395/7" value="600Ohm@100 MHz" x="10.5" y="15.5" smashed="yes">
+<element name="L1" library="Wurth_EMC Components_WE-CBF" library_urn="urn:adsk.eagle:library:14283147" package="WE-CBF_0603_W2.6" package3d_urn="urn:adsk.eagle:package:7784395/7" value="742792651" x="10.5" y="15.5" smashed="yes">
 <attribute name="DATASHEET-URL" value="https://www.we-online.com/redexpert/spec/742792651?ae" x="10.5" y="15.5" size="1" layer="27" display="off"/>
 <attribute name="IR2" value="1000mA" x="10.5" y="15.5" size="1" layer="27" display="off"/>
 <attribute name="MOUNT" value="SMT" x="10.5" y="15.5" size="1" layer="27" display="off"/>
