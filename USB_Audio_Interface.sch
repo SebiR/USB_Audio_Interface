@@ -25453,7 +25453,7 @@ Updated by Ella Wu 2022-11-02&lt;br&gt;
 <part name="LED1" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="MICRO-SIDELED" package3d_urn="urn:adsk.eagle:package:15815/1" override_package3d_urn="urn:adsk.eagle:package:42845568/2" override_package_urn="urn:adsk.eagle:footprint:15669/1"/>
 <part name="R18" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="330R"/>
 <part name="GND29" library="supply1" deviceset="GND" device=""/>
-<part name="D1" library="Wurth_EMC Components_WE-TVS" library_urn="urn:adsk.eagle:library:14282971" deviceset="WE-TVS-HS_SOT23-6L_82400102" device="" package3d_urn="urn:adsk.eagle:package:12152378/5" value="5Vdc"/>
+<part name="D1" library="Wurth_EMC Components_WE-TVS" library_urn="urn:adsk.eagle:library:14282971" deviceset="WE-TVS-HS_SOT23-6L_82400102" device="" package3d_urn="urn:adsk.eagle:package:12152378/5" value="82400102 5V"/>
 <part name="P+5" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
 <part name="GND30" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="L1" library="Wurth_EMC Components_WE-CBF" library_urn="urn:adsk.eagle:library:14283147" deviceset="WE-CBF_0603" device="_HC" package3d_urn="urn:adsk.eagle:package:7784395/7" technology="_742792651" value="600Ohm@100 MHz"/>
@@ -25464,7 +25464,7 @@ Updated by Ella Wu 2022-11-02&lt;br&gt;
 <part name="PAD1" library="wirepad" library_urn="urn:adsk.eagle:library:412" deviceset="2,15/1,0" device="" package3d_urn="urn:adsk.eagle:package:30831/1"/>
 <part name="PAD2" library="wirepad" library_urn="urn:adsk.eagle:library:412" deviceset="2,15/1,0" device="" package3d_urn="urn:adsk.eagle:package:30831/1"/>
 <part name="PAD3" library="wirepad" library_urn="urn:adsk.eagle:library:412" deviceset="2,15/1,0" device="" package3d_urn="urn:adsk.eagle:package:30831/1"/>
-<part name="D3" library="Wurth_EMC Components_WE-TVS" library_urn="urn:adsk.eagle:library:14282971" deviceset="WE-TVS_SOT23-3L_824022" device="" package3d_urn="urn:adsk.eagle:package:12152380/4" value="5Vdc"/>
+<part name="D3" library="Wurth_EMC Components_WE-TVS" library_urn="urn:adsk.eagle:library:14282971" deviceset="WE-TVS_SOT23-3L_824022" device="" package3d_urn="urn:adsk.eagle:package:12152380/4" value="824022 5V"/>
 <part name="GND31" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="SJ1" library="jumper" library_urn="urn:adsk.eagle:library:252" deviceset="SJ2W" device="" package3d_urn="urn:adsk.eagle:package:15474/1"/>
 <part name="SJ2" library="jumper" library_urn="urn:adsk.eagle:library:252" deviceset="SJ2W" device="" package3d_urn="urn:adsk.eagle:package:15474/1"/>
